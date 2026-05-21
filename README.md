@@ -85,15 +85,15 @@ The model performance is evaluated using:
 
 # ▶️ How to Run the Project
 
-## Step 1 — Clone Repository
+## Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/IMDB-Sentiment-Analysis.git
+git clone https://github.com/Boyana-Vishnuvardan02/IMDB-Sentiment-Analysis.git
 ```
 
 ---
 
-## Step 2 — Open Project Folder
+## Step 2 — Navigate to Project Directory
 
 ```bash
 cd IMDB-Sentiment-Analysis
@@ -101,7 +101,7 @@ cd IMDB-Sentiment-Analysis
 
 ---
 
-## Step 3 — Install Required Libraries
+## Step 3 — Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -109,13 +109,21 @@ pip install -r requirements.txt
 
 ---
 
-## Step 4 — Run Streamlit Application
+## Step 4 — Run the Streamlit Application
 
 ```bash
 streamlit run ML_Deploy.py
 ```
 
 ---
+
+## Step 5 — Open in Browser
+
+After running the command, the application will automatically open in your browser at:
+
+```text
+http://localhost:8501
+```
 
 # 📂 Project Structure
 
