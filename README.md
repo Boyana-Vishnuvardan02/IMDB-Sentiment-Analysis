@@ -75,13 +75,11 @@ The model performance is evaluated using:
 
 ## Application Interface
 
-(Add your screenshot inside the screenshots folder)
+![Application Screenshot](screenshots/app.png)
 
-Example:
+## Prediction Result
 
-```text
-screenshots/app.png
-```
+![Prediction Screenshot](screenshots/prediction.png)
 
 ---
 
